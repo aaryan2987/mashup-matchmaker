@@ -27,5 +27,7 @@ uploads.
 - *(planned)* Analyze your own unreleased tracks directly when they're not in
   any public database
 
+Song tempo/key data provided by [GetSongBPM](https://getsongbpm.com).
+
 Built to explore a genuinely unsolved problem in mashup and DJ culture — with an
 eye toward becoming a real tool for that community.
